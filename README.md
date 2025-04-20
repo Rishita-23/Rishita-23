@@ -13,7 +13,7 @@ I'm passionate about **technology, data, and learning new things** every day to 
 - 📊 Currently learning **Data Analysis** with tools like Python, SQL, Excel & Tableau
 - 🔍 Exploring concepts like **ER diagrams**, **SQL queries**, **Relational Algebra**, and **Database Design**
 - 📚 Actively working on improving my Python programming skills through hands-on projects
-- 💡 I enjoy working on **academic projects**, **volunteering with NGOs**, and even **organizing events**
+- 💡 I enjoy working on **academic projects**, **volunteering with NGOs**
 
 ---
 
