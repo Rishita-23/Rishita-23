@@ -52,6 +52,8 @@ I love connecting with people who are into tech, learning, or social good. Feel 
 
 ---
 
-_“Stay curious, stay humble, and keep building.”_ 💜
+_“To infinity... and beyond!”_ 🚀  
+— *Buzz Lightyear, Toy Story*
+
 
 
