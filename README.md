@@ -25,7 +25,6 @@ Here are the technologies and tools I’ve been working with:
 - 💾 **SQL (MySQL)** – for database management
 - 📊 **Tableau** – for data visualization
 - 📈 **MS Excel** – for spreadsheets and data manipulation
-- 💻 **VS Code** – my go-to code editor
 - 🌐 **HTML, CSS** – basic frontend knowledge
 
 ---
