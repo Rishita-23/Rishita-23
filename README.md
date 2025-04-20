@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hey there! I'm Rishita
+## 👋 Hey there! I'm Rishita
 
 Welcome to my GitHub profile!  
 I’m a **Computer Science Engineering (CSE)** student.
