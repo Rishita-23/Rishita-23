@@ -22,6 +22,7 @@ Here are the technologies and tools I’ve been working with:
 
 ### Languages & Tools:
 - 💾 **SQL (MySQL)** – for database management
+- 🐍 **Python** - for data visualization and analysis
 - 📊 **Tableau** – for data visualization
 - 📈 **MS Excel** – for spreadsheets and data manipulation
 - 🌐 **HTML, CSS** – basic frontend knowledge
@@ -31,8 +32,7 @@ Here are the technologies and tools I’ve been working with:
 ## 🔭 Current Goals
 
 - ✅ Learning Python’s data libraries like **Pandas**, **NumPy**, and **Matplotlib**
-- ✅ Work on beginner to intermediate-level data analysis projects
-- ✅ Get certified in **SQL & Data Visualization**
+- ✅ Work on intermediate-level  data analysis projects
 
 ---
 
