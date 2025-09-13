@@ -20,10 +20,12 @@ I'm passionate about **technology, data, and learning new things** every day to 
 
 Here are the technologies and tools I’ve been working with:
 
-### Languages & Tools:
+### Languages, Libraries & Tools:
 - 💾 **SQL (MySQL)** – for database management
 - 🐍 **Python** - for data visualization and analysis
+- 📚**Libraries** - NumPy, Matplotlib, Pandas, Seaborn
 - 📊 **Tableau** – for data visualization
+- 📝 **Jupyter Notebook** – interactive coding + visualization
 - 📈 **MS Excel** – for spreadsheets and data manipulation
 - 🌐 **HTML, CSS** – basic frontend knowledge
 
@@ -31,7 +33,6 @@ Here are the technologies and tools I’ve been working with:
 
 ## 🔭 Current Goals
 
-- ✅ Learning Python’s data libraries like **Pandas**, **NumPy**, and **Matplotlib**
 - ✅ Work on intermediate-level  data analysis projects
 
 ---
