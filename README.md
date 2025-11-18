@@ -47,7 +47,7 @@ Here are the technologies and tools I’ve been working with:
 
 I love connecting with people who are into tech, learning, or social good. Feel free to reach out!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishita-gupta-a4aa81305)
-- 📧 Email: rishitagupta2301@gmail.com
+- 📧 Email: rishitagupta.contact@gmail.com
 - 📷 [Instagram](https://www.instagram.com/rishita_ig?igsh=b2JjbzR1bmJoamJz)
 
 ---
